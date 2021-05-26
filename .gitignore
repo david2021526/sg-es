@@ -1,0 +1,5 @@
+.idea
+/vendor/
+.gitattributes
+.DS_Store
+.phpunit.result.cache
